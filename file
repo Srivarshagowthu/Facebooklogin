@@ -1,0 +1,4 @@
+<figure>
+  <img src="image.jpg" alt="Image description">
+  <figcaption>This is the caption for the image.</figcaption>
+</figure>
